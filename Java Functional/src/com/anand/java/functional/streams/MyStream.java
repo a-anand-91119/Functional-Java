@@ -26,7 +26,7 @@ public class MyStream {
 		
 		System.out.println(genders);
 
-		System.out.println("For Each and ::");
+		System.out.println("For Each and ::"); 
 
 		people.stream()
 			.map(person -> person.gender)
